@@ -22,6 +22,9 @@ The project provides:
 
 These documents are intended for researchers, governance institutions, and incident review bodies dealing with advanced AI systems.
 
+This evaluation includes a pre-irreversibility check to determine whether effective intervention remained possible.
+本評価では、不可逆化前に実効的介入が可能であったかを確認する
+
 ---
 
 ## Core Components
