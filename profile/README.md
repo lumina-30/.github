@@ -2,6 +2,7 @@
 
 Civilizational Boundary for Recursive AI Systems
 
+LUMINA-30 provides a minimal pre-irreversibility framework for evaluating whether systems remain interruptible before irreversible impact.
 ---
 
 ## Overview
