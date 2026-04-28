@@ -85,7 +85,9 @@ Open for academic review and institutional discussion.
 
 Start here:
 
-▶ https://github.com/lumina-30/lumina-30-overview
+- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
+- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
+- [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
 
 ---
 
@@ -162,4 +164,6 @@ AIの発展を止めるものではなく、
 
 まずはこちらをご覧ください：
 
-▶ https://github.com/lumina-30/lumina-30-overview
+- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
+- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
+- [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
