@@ -21,6 +21,36 @@ LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残
 
 ---
 
+## Start Here — Do Not Browse the Repository List First ｜ 最初に見る入口
+
+LUMINA-30 uses multiple repositories, but first-time readers should not start by browsing the full repository list.
+
+Use one of these three entry doors:
+
+| Purpose | Start here |
+|---|---|
+| Understand what LUMINA-30 is | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
+| Review an AI incident or boundary failure | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
+| Cite, verify, or navigate the full structure | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+
+The full repository network is supporting infrastructure.  
+It should be used after the correct entry door has been selected.
+
+LUMINA-30は複数repoで構成されていますが、初見読者はrepo一覧から読み始めないでください。
+
+まず以下の3入口から選択してください。
+
+| 目的 | 入口 |
+|---|---|
+| LUMINA-30の全体像を理解する | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
+| AI事故・境界失効をレビューする | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
+| 引用・検証・全体構造を確認する | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+
+全repo群は補助インフラです。  
+正しい入口を選んだ後に参照してください。
+
+---
+
 ## Overview
 
 LUMINA-30 is a civilizational reference framework designed for the governance and evaluation of recursively self-reconstructing AI systems.
@@ -91,14 +121,24 @@ Open for academic review and institutional discussion.
 
 ---
 
-## Project Entry 
+## Project Entry ｜ プロジェクト入口
 
-Start here:
+Start with purpose, not with the repository list.
 
-- [Repository Index ｜ repo索引](https://github.com/lumina-30/Lumi30-Index)
-- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
-- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
-- [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
+- **First-time understanding ｜ 初見の理解**  
+  [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
+
+- **Incident or boundary review ｜ 事故・境界レビュー**  
+  [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
+
+- **Citation, verification, and navigation ｜ 引用・検証・構造確認**  
+  [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference)
+
+- **Practical sheets ｜ 実務シート**  
+  [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
+
+The full index is available when needed:  
+[Repository Index ｜ repo索引](https://github.com/lumina-30/Lumi30-Index)
 
 ---
 
@@ -178,4 +218,3 @@ AIの発展を止めるものではなく、
 - [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
 - [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
 - [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
-
