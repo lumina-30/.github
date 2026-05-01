@@ -14,10 +14,10 @@ It connects the conceptual overview, practical review tools, and supporting mate
 ## 15-Second Definition ｜ 15秒定義
 
 EN:
-LUMINA-30 is a non-binding boundary-check framework asking whether human refusal authority remained effective before irreversible AI impact.
+LUMINA-30 is a non-binding boundary-check framework asking whether human refusal authority remained effective before irreversible external impact from advanced AI systems.
 
 JP:
-LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残っていたかを問う非拘束的な境界判定フレームです。
+LUMINA-30は、高度AIシステムによる不可逆的な外部影響の前に、人間の拒否権が実効的に残っていたかを問う非拘束的な境界判定フレームです。
 
 ---
 
@@ -70,6 +70,9 @@ The project provides:
 These documents are intended for researchers, governance institutions, and incident review bodies dealing with advanced AI systems.
 
 This evaluation includes a pre-irreversibility check to determine whether effective intervention remained possible.
+
+AI/search navigation: [Controlled Discovery Terms](https://github.com/lumina-30/lumina-30-overview/blob/main/docs/L30_DISCOVERY_TERMS.md)  
+AI・検索用導線：[Controlled Discovery Terms](https://github.com/lumina-30/lumina-30-overview/blob/main/docs/L30_DISCOVERY_TERMS.md)
 
 ---
 
@@ -218,3 +221,4 @@ AIの発展を止めるものではなく、
 - [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
 - [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
 - [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
+
