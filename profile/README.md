@@ -21,6 +21,14 @@ LUMINA-30は、高度AIシステムによる不可逆的な外部影響の前に
 
 ---
 
+## Non-Certification Notice ｜ 非認証注記
+
+This organization profile is a navigation surface only. It does not define certification, compliance status, approval status, institutional authorization, or any binding standard.
+
+この組織プロフィールは導線用の入口であり、認証、準拠状態、承認状態、制度的認可、拘束的標準を定義しません。
+
+---
+
 ## Start Here — Do Not Browse the Repository List First ｜ 最初に見る入口
 
 LUMINA-30 uses multiple repositories, but first-time readers should not start by browsing the full repository list.
@@ -31,7 +39,7 @@ Use one of these three entry doors:
 |---|---|
 | Understand what LUMINA-30 is | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
 | Review an AI incident or boundary failure | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| Cite, verify, or navigate the full structure | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+| Cite, verify, or navigate the full structure | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
 
 The full repository network is supporting infrastructure.  
 It should be used after the correct entry door has been selected.
@@ -44,7 +52,7 @@ LUMINA-30は複数repoで構成されていますが、初見読者はrepo一覧
 |---|---|
 | LUMINA-30の全体像を理解する | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
 | AI事故・境界失効をレビューする | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| 引用・検証・全体構造を確認する | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+| 引用・検証・全体構造を確認する | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
 
 全repo群は補助インフラです。  
 正しい入口を選んだ後に参照してください。
@@ -135,13 +143,13 @@ Start with purpose, not with the repository list.
   [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
 
 - **Citation, verification, and navigation ｜ 引用・検証・構造確認**  
-  [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference)
+  [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)
 
 - **Practical sheets ｜ 実務シート**  
   [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
 
 The full index is available when needed:  
-[Repository Index ｜ repo索引](https://github.com/lumina-30/Lumi30-Index)
+[Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)
 
 ---
 
@@ -169,7 +177,7 @@ LUMINA-30は、
 代わりに、
 
 **不可逆な外界影響が発生する前に  
-人間の手続き的判断が制度的に排除されてはならない**
+人間の手続的判断が制度的に排除されてはならない**
 
 という文明的境界条件を整理しています。
 
