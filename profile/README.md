@@ -145,8 +145,8 @@ Start with purpose, not with the repository list.
 - **Citation, verification, and navigation ｜ 引用・検証・構造確認**  
   [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)
 
-- **Practical sheets ｜ 実務シート**  
-  [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
+- **Practical forms ｜ 実務帳票**  
+  [L30_FRM Practical Forms ｜ L30_FRM 実務帳票](https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_All_Forms_Index_v1_0.md)
 
 The full index is available when needed:  
 [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)
@@ -228,5 +228,6 @@ AIの発展を止めるものではなく、
 
 - [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
 - [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
-- [L30-BAS Practical Sheets ｜ L30-BAS 実務シート](https://github.com/lumina-30/lumina-30-overview#l30-bas-practical-sheets)
+- [L30_FRM Practical Forms ｜ L30_FRM 実務帳票](https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_All_Forms_Index_v1_0.md)
+
 
