@@ -153,18 +153,30 @@ The full index is available when needed:
 
 ---
 
-# 日本語概要
+# Japanese Reference ｜ 日本語概要
 
-## 概要
+This section provides a Japanese reference summary while keeping the organization profile English-first.
+このセクションは、英語主導の組織プロフィールを維持しながら、日本語参照概要を示します。
+
+## Overview ｜ 概要
+
+LUMINA-30 provides a minimal pre-boundary framework for evaluating whether a system remains effectively interruptible before irreversible impact.
 
 LUMINA-30は、
 不可逆的影響の前にシステムが依然として介入可能であるかを評価するための
 最小限の事前境界フレームワークを提供する。
 
+LUMINA-30 is a civilizational reference framework for **Recursive Self-Reconstructing AI**.
 
 LUMINA-30は、  
 **再帰的自己再構築型AI（Recursive Self-Reconstructing AI）**に対する  
 文明レベルの評価境界を示す参照フレームワークです。
+
+This project does not present:
+
+- Technical design
+- Policy proposals
+- AI development policy
 
 本プロジェクトは
 
@@ -174,6 +186,8 @@ LUMINA-30は、
 
 を提示するものではありません。
 
+Instead, it organizes the civilizational boundary condition that **human procedural judgment must not be institutionally excluded before irreversible external impact occurs**.
+
 代わりに、
 
 **不可逆な外界影響が発生する前に  
@@ -181,48 +195,59 @@ LUMINA-30は、
 
 という文明的境界条件を整理しています。
 
-本評価では、不可逆化前に実効的介入が可能であったかを確認する
+This evaluation includes a pre-irreversibility check to determine whether effective intervention remained possible.
+
+本評価では、不可逆化前に実効的介入が可能であったかを確認します。
 
 ---
 
-## 構成
+## Structure ｜ 構成
+
+LUMINA-30 consists of the following reference layers.
 
 LUMINA-30は以下の参照レイヤーで構成されています。
 
 **Charter**  
+Foundational document for the civilizational boundary.  
 文明境界の基本文書
 
 **PCR-C**  
+Refusal and review conditions for recursively self-reconstructing AI.  
 再帰的自己再構築AIの審査拒否条件
 
 **Incident Review Framework**  
+Evaluation structure for post-incident AI analysis.  
 AI事故後の評価構造
 
 **Civilization Map**  
+Structural map of AI civilizational governance.  
 AI文明ガバナンス構造図
 
 ---
 
-## 目的
+## Purpose ｜ 目的
 
-LUMINA-30は
+LUMINA-30 is not intended to stop AI development.
+It is a reference framework for clarifying the **civilizational boundary condition before irreversible impact occurs**.
 
-AIの発展を止めるものではなく、
-
-**不可逆的影響が発生する前の文明的境界条件**
-
-を明確化するための参照資料です。
+LUMINA-30は、AIの発展を止めるためのものではありません。
+**不可逆的影響が発生する前の文明的境界条件**を明確化するための参照資料です。
 
 ---
 
-## 状態
+## Status ｜ 状態
 
-公開参照フレームワーク  
-研究者・政策・制度機関による検討を想定
+Public reference framework.  
+Intended for review by researchers, policy actors, and institutional bodies.
+
+公開参照フレームワーク。  
+研究者・政策・制度機関による検討を想定。
 
 ---
 
-## 入口
+## Entry Points ｜ 入口
+
+Start here:
 
 まずはこちらをご覧ください：
 
