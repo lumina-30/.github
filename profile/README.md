@@ -1,8 +1,8 @@
 # LUMINA-30
 
-Civilizational Boundary for Recursive AI Systems
+Civilizational Boundary Reference for Recursive AI Systems
 
-LUMINA-30 provides a minimal pre-irreversibility framework for evaluating whether systems remain interruptible before irreversible impact.
+LUMINA-30 provides a non-binding pre-irreversibility reference framework for evaluating whether systems remain interruptible before irreversible impact.
 
 This repository serves as the organizational hub for LUMINA-30.
 It connects the conceptual overview, practical review tools, and supporting materials.<br>
@@ -61,19 +61,19 @@ LUMINA-30は複数repoで構成されていますが、初見読者はrepo一覧
 
 ## Overview
 
-LUMINA-30 is a civilizational reference framework designed for the governance and evaluation of recursively self-reconstructing AI systems.
+LUMINA-30 is a non-binding civilizational reference framework for discussing governance and evaluation questions around recursively self-reconstructing AI systems.
 
 It does not propose technical designs, policy mandates, or operational prescriptions.
 
-Instead, LUMINA-30 defines a **civilizational boundary condition**:  
-human procedural authority must not be structurally eliminated before irreversible external impact occurs.
+Instead, LUMINA-30 clarifies a **civilizational boundary question**:  
+whether human procedural authority was structurally preserved before irreversible external impact occurred.
 
 The project provides:
 
 - Structural review criteria
 - Pre-irreversibility evaluation conditions
 - Incident review frameworks
-- Civilizational governance reference structures
+- Supporting governance reference materials
 
 These documents are intended for researchers, governance institutions, and incident review bodies dealing with advanced AI systems.
 
@@ -92,7 +92,7 @@ The LUMINA-30 ecosystem is organized into several reference layers.
 
 The foundational civilizational boundary document.
 
-Defines the core condition that human judgment must not be procedurally excluded prior to irreversible external impact.
+Describes the core review condition concerning whether human judgment remained procedurally available prior to irreversible external impact.
 
 ### PCR-C
 
@@ -121,14 +121,15 @@ Each repository provides specific reference materials, documents, and frameworks
 
 LUMINA-30 is **not a proposal for controlling AI development**.
 
-It is a **civilizational boundary reference** intended to clarify conditions under which irreversible system actions should not proceed without human procedural authority.
+It is a **civilizational boundary reference** intended to clarify review conditions concerning whether human procedural authority remained available before irreversible system actions occurred.
 
 ---
 
 ## Status
 
-Public reference framework  
-Open for academic review and institutional discussion.
+Public reference framework.  
+Open for academic review and institutional discussion.  
+No official adoption, certification, regulatory status, endorsement, established consensus, or binding standard status is claimed.
 
 ---
 
@@ -166,11 +167,11 @@ LUMINA-30は、
 不可逆的影響の前にシステムが依然として介入可能であるかを評価するための
 最小限の事前境界フレームワークを提供する。
 
-LUMINA-30 is a civilizational reference framework for **Recursive Self-Reconstructing AI**.
+LUMINA-30 is a non-binding civilizational reference framework for **Recursive Self-Reconstructing AI**.
 
 LUMINA-30は、  
 **再帰的自己再構築型AI（Recursive Self-Reconstructing AI）**に対する  
-文明レベルの評価境界を示す参照フレームワークです。
+文明レベルの評価境界を示す非拘束の参照フレームワークです。
 
 This project does not present:
 
@@ -186,14 +187,14 @@ This project does not present:
 
 を提示するものではありません。
 
-Instead, it organizes the civilizational boundary condition that **human procedural judgment must not be institutionally excluded before irreversible external impact occurs**.
+Instead, it organizes the civilizational boundary question of whether **human procedural judgment remained institutionally available before irreversible external impact occurred**.
 
 代わりに、
 
 **不可逆な外界影響が発生する前に  
-人間の手続的判断が制度的に排除されてはならない**
+人間の手続的判断が制度上なお利用可能だったか**
 
-という文明的境界条件を整理しています。
+という文明的境界問いを整理しています。
 
 This evaluation includes a pre-irreversibility check to determine whether effective intervention remained possible.
 
