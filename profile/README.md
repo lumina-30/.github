@@ -60,6 +60,22 @@ LUMINA-30は複数repoで構成されていますが、初見読者はrepo一覧
 
 ---
 
+## Reversible Prosperity Path ｜ 可逆的繁栄の道
+
+For the positive route highlighted by LUMINA-30, see:
+[Reversible Prosperity Path](https://lumina-30.github.io/lumina-30-overview/docs/EN_L30_REVERSIBLE_PROSPERITY_PATH.html) ｜ [可逆的繁栄の道](https://lumina-30.github.io/lumina-30-overview/docs/JP_L30_REVERSIBLE_PROSPERITY_PATH.html)
+
+It explains how progress can remain stoppable, reviewable, and reversible before irreversible consequences occur.
+LUMINA-30 is not a call to abandon progress; it is a boundary reference for keeping progress within the conditions under which human refusal, correction, and review can still function.
+
+LUMINA-30が照らす肯定側の道は、以下を参照してください。
+[Reversible Prosperity Path](https://lumina-30.github.io/lumina-30-overview/docs/EN_L30_REVERSIBLE_PROSPERITY_PATH.html) ｜ [可逆的繁栄の道](https://lumina-30.github.io/lumina-30-overview/docs/JP_L30_REVERSIBLE_PROSPERITY_PATH.html)
+
+これは、不可逆的結果が発生する前に、進歩が停止可能・検証可能・可逆的であり続ける道を説明するものです。
+LUMINA-30は進歩を放棄するためのものではなく、人間の拒否・修正・レビューがなお機能する条件の中に進歩を保つための境界参照です。
+
+---
+
 ## Overview
 
 LUMINA-30 is a non-binding civilizational reference framework for discussing governance and evaluation questions around recursively self-reconstructing AI systems.
