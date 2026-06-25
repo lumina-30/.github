@@ -5,9 +5,9 @@ Civilizational Boundary Reference for Recursive AI Systems
 
 LUMINA-30 provides a non-binding pre-irreversibility reference framework for evaluating whether systems remain interruptible before irreversible impact.
 
-This repository serves as the organizational hub for LUMINA-30.
+This organization profile links the main LUMINA-30 resources.
 It connects the conceptual overview, practical review tools, and supporting materials.<br>
-このリポジトリはLUMINA-30の全体ハブです。
+この組織プロフィールは、LUMINA-30の主要資料への入口です。
 概念概要、実務レビュー用ツール、補助資料を接続します。
 
 ---
@@ -34,29 +34,29 @@ This organization profile is a navigation surface only. It does not define certi
 
 LUMINA-30 uses multiple repositories, but first-time readers should not start by browsing the full repository list.
 
-Use one of these three entry doors:
+Choose the entry route that matches your purpose:
 
 | Purpose | Start here |
 |---|---|
-| Understand what LUMINA-30 is | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
-| Review an AI incident or boundary failure | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| Cite, verify, or navigate the full structure | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
+| First visit | [Start by Concern](https://lumina-30.github.io/Lumi30-Index/start-by-concern.html) ｜ [Japanese](https://lumina-30.github.io/Lumi30-Index/start-by-concern-ja.html) |
+| Pre-deployment or incident review | [One-Question Pilot](https://lumina-30.github.io/lumina-30-overview/tools/pre-incident-boundary-review/en/one-question-pilot.html) / [Incident Review](https://lumina-30.github.io/lumina30-incident-review/index.html) |
+| Find the full document map or return later | [LUMINA-30 Index](https://lumina-30.github.io/Lumi30-Index/index.html) |
 
 The full repository network is supporting infrastructure.  
-It should be used after the correct entry door has been selected.
+Use the Overview only when deeper background is needed.
 
 LUMINA-30は複数repoで構成されていますが、初見読者はrepo一覧から読み始めないでください。
 
-まず以下の3入口から選択してください。
+目的に合う入口を選んでください。
 
 | 目的 | 入口 |
 |---|---|
-| LUMINA-30の全体像を理解する | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
-| AI事故・境界失効をレビューする | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| 引用・検証・全体構造を確認する | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
+| 初めて読む | [関心から入る](https://lumina-30.github.io/Lumi30-Index/start-by-concern-ja.html) |
+| 導入前レビュー・事故レビュー | [One-Question Pilot](https://lumina-30.github.io/lumina-30-overview/tools/pre-incident-boundary-review/ja/one-question-pilot.html) / [Incident Review](https://lumina-30.github.io/lumina30-incident-review/index-ja.html) |
+| 全体を探す・再訪する | [LUMINA-30 Index](https://lumina-30.github.io/Lumi30-Index/index-ja.html) |
 
 全repo群は補助インフラです。  
-正しい入口を選んだ後に参照してください。
+Overviewは背景を詳しく確認する場合だけ使用してください。
 
 ---
 
@@ -150,24 +150,9 @@ No official adoption, certification, regulatory status, endorsement, established
 
 ---
 
-## Project Entry ｜ プロジェクト入口
+## Practical Forms ｜ 実務帳票
 
-Start with purpose, not with the repository list.
-
-- **First-time understanding ｜ 初見の理解**  
-  [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
-
-- **Incident or boundary review ｜ 事故・境界レビュー**  
-  [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
-
-- **Citation, verification, and navigation ｜ 引用・検証・構造確認**  
-  [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)
-
-- **Practical forms ｜ 実務帳票**  
-  [L30_FRM Practical Forms ｜ L30_FRM 実務帳票](https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_All_Forms_Index.md)
-
-The full index is available when needed:  
-[Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)
+- [L30_FRM Practical Forms ｜ L30_FRM 実務帳票](https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_All_Forms_Index.md)
 
 ---
 
@@ -263,12 +248,3 @@ Intended for review by researchers, policy actors, and institutional bodies.
 
 ---
 
-## Entry Points ｜ 入口
-
-Start here:
-
-まずはこちらをご覧ください：
-
-- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)
-- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)
-- [L30_FRM Practical Forms ｜ L30_FRM 実務帳票](https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_All_Forms_Index.md)
